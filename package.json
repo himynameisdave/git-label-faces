@@ -1,0 +1,26 @@
+{
+  "name": "git-label-faces",
+  "version": "0.1.0",
+  "description": "Label your issues with face labels!",
+  "main": "git-label-faces.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himynameisdave/git-label-faces.git"
+  },
+  "keywords": [
+    "git-label",
+    "git",
+    "github",
+    "fun",
+    "faces"
+  ],
+  "author": "himynameisdave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/himynameisdave/git-label-faces/issues"
+  },
+  "homepage": "https://github.com/himynameisdave/git-label-faces#readme"
+}
